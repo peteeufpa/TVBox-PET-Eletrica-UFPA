@@ -10,7 +10,7 @@
 
 4° Passo - Efetuar as configurações iniciais do server:
           
-          Crie a senha de root 'petee31415'.
+          Crie a senha de root 'peteletrica'.
           Para a shell de comando do sistema padrão, escolha a opção 1 (bash).
           Na criação de usuário, escolha como nome 'aluno' e senha 'aluno'.
           Como nome verdadeiro, escolha 'aluno' também (COM AS LETRAS MINÚSCULAS!).
