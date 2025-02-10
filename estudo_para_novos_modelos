@@ -1,1 +1,3 @@
-teste
+Os novos modelos, como ik316, ainda não possuem uma descaracterização fechada, por isso é necessário realizar alterações no uboot, portanto é necessário seu domínio, seguem os links de materiais para entendimento do U-boot:
+link1 - Tutorial: Introduction to the Embedded Boot Loader U-boot - Behan Webster, Converse in Code (https://www.youtube.com/watch?v=INWghYZH3hI);
+link2 - U-boot para processador h616, equivalente ik316 (https://github.com/hexdump0815/u-boot-misc/blob/master/readme.h616).
